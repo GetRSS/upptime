@@ -4,9 +4,9 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   },
   {
     "name": "RSSHub",
