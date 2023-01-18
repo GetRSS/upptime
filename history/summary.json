@@ -60,17 +60,19 @@
     "url": "$REDDITRSS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 1106,
-    "timeWeek": 1150,
-    "timeMonth": 994,
-    "timeYear": 994,
-    "dailyMinutesDown": {}
+    "time": 1156,
+    "timeDay": 3238,
+    "timeWeek": 1678,
+    "timeMonth": 1156,
+    "timeYear": 1156,
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   }
 ]
