@@ -42,18 +42,20 @@
     "url": "$RSSBRIDGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 199,
-    "timeWeek": 235,
-    "timeMonth": 866,
-    "timeYear": 537,
-    "dailyMinutesDown": {}
+    "time": 814,
+    "timeDay": 10742,
+    "timeWeek": 2866,
+    "timeMonth": 1570,
+    "timeYear": 814,
+    "dailyMinutesDown": {
+      "2023-03-07": 0
+    }
   },
   {
     "name": "Reddit-RSS",
