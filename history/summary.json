@@ -4,19 +4,19 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 359,
-    "timeDay": 707,
-    "timeWeek": 507,
-    "timeMonth": 357,
-    "timeYear": 359,
+    "time": 456,
+    "timeDay": 2626,
+    "timeWeek": 1397,
+    "timeMonth": 650,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-03-30": 17,
+      "2023-03-30": 26,
       "2022-12-27": 17
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 518,
     "timeDay": 667,
     "timeWeek": 416,
     "timeMonth": 816,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-03-30": 34
+      "2023-03-30": 43
     }
   },
   {
@@ -47,9 +47,9 @@
     "slug": "rss-bridge",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
     "time": 695,
     "timeDay": 634,
@@ -57,7 +57,7 @@
     "timeMonth": 928,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2023-03-30": 34,
+      "2023-03-30": 43,
       "2023-03-07": 18
     }
   },
