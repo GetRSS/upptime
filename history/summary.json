@@ -4,10 +4,10 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 488,
@@ -16,6 +16,7 @@
     "timeMonth": 316,
     "timeYear": 488,
     "dailyMinutesDown": {
+      "2023-05-15": 2,
       "2023-03-30": 35,
       "2022-12-27": 17
     }
@@ -25,9 +26,9 @@
     "url": "$RSSHUB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -37,6 +38,7 @@
     "timeMonth": 328,
     "timeYear": 550,
     "dailyMinutesDown": {
+      "2023-05-15": 0,
       "2023-03-30": 97
     }
   },
@@ -67,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 1193,
     "timeDay": 776,
     "timeWeek": 847,
