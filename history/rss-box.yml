@@ -1,7 +1,7 @@
 url: $RSSBOX
-status: down
-code: 503
-responseTime: 177
-lastUpdated: 2023-10-10T02:56:22.570Z
+status: up
+code: 200
+responseTime: 180
+lastUpdated: 2023-10-10T03:12:05.897Z
 startTime: 2022-12-25T00:27:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
