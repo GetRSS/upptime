@@ -4,7 +4,7 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 227,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-09-09": 45,
       "2024-03-26": 16,
       "2024-02-07": 28,
@@ -40,7 +41,7 @@
     "timeMonth": 214,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-10-19": 44,
+      "2024-10-19": 73,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -446,7 +447,7 @@
     "timeMonth": 333,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-10-19": 44,
+      "2024-10-19": 73,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
