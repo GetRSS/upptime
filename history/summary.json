@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 223,
-    "timeDay": 230,
-    "timeWeek": 220,
+    "timeDay": 206,
+    "timeWeek": 222,
     "timeMonth": 223,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -29,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "19.67%",
+    "uptime": "19.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 202,
-    "timeDay": 227,
-    "timeWeek": 224,
-    "timeMonth": 224,
+    "timeDay": 256,
+    "timeWeek": 216,
+    "timeMonth": 225,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-12-30": 47,
+      "2024-12-31": 45,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -403,8 +404,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -419,8 +419,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 239,
-    "timeDay": 224,
-    "timeWeek": 208,
+    "timeDay": 231,
+    "timeWeek": 202,
     "timeMonth": 253,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -435,18 +435,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "47.85%",
+    "uptime": "47.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 465,
-    "timeDay": 372,
-    "timeWeek": 309,
-    "timeMonth": 746,
+    "timeDay": 387,
+    "timeWeek": 286,
+    "timeMonth": 734,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-12-30": 47,
+      "2024-12-31": 45,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -809,8 +810,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   }
 ]
