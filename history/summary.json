@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 264,
-    "timeDay": 10849,
-    "timeWeek": 2896,
+    "timeDay": 10757,
+    "timeWeek": 2897,
     "timeMonth": 868,
-    "timeYear": 272,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2025-01-23": 19,
       "2024-10-19": 76,
@@ -29,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "19.04%",
+    "uptime": "19.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 201,
-    "timeDay": 192,
-    "timeWeek": 181,
-    "timeMonth": 193,
+    "timeDay": 177,
+    "timeWeek": 175,
+    "timeMonth": 189,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-01-23": 330,
+      "2025-01-24": 44,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -403,8 +404,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   },
   {
@@ -419,9 +419,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 239,
-    "timeDay": 221,
-    "timeWeek": 248,
-    "timeMonth": 222,
+    "timeDay": 205,
+    "timeWeek": 242,
+    "timeMonth": 220,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2024-09-09": 45,
@@ -434,18 +434,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "46.32%",
+    "uptime": "46.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 446,
-    "timeDay": 346,
-    "timeWeek": 447,
-    "timeMonth": 364,
+    "time": 445,
+    "timeDay": 362,
+    "timeWeek": 457,
+    "timeMonth": 358,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-01-23": 330,
+      "2025-01-24": 44,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -808,8 +809,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   }
 ]
