@@ -6,17 +6,16 @@
     "slug": "rss-box",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 336,
-    "timeDay": 365,
-    "timeWeek": 3646,
+    "timeDay": 282,
+    "timeWeek": 3638,
     "timeMonth": 1660,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-02-08": 9,
       "2025-02-04": 42,
       "2025-01-29": 21,
       "2025-01-23": 19,
@@ -31,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "18.64%",
+    "uptime": "18.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 201,
-    "timeDay": 342,
-    "timeWeek": 239,
-    "timeMonth": 199,
+    "timeDay": 138,
+    "timeWeek": 222,
+    "timeMonth": 198,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-02-08": 1001,
+      "2025-02-09": 48,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -405,8 +405,7 @@
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
-      "2024-02-11": 1440,
-      "2024-02-10": 1440
+      "2024-02-11": 1440
     }
   },
   {
@@ -421,10 +420,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 282,
-    "timeDay": 402,
-    "timeWeek": 2641,
-    "timeMonth": 837,
-    "timeYear": 277,
+    "timeDay": 159,
+    "timeWeek": 2635,
+    "timeMonth": 836,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2024-09-09": 45
     }
@@ -435,18 +434,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "45.34%",
+    "uptime": "45.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 482,
-    "timeDay": 310,
-    "timeWeek": 3774,
-    "timeMonth": 1134,
+    "time": 472,
+    "timeDay": 464,
+    "timeWeek": 3790,
+    "timeMonth": 1132,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2025-02-08": 1001,
+      "2025-02-09": 48,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -809,8 +809,7 @@
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
-      "2024-02-11": 1440,
-      "2024-02-10": 1440
+      "2024-02-11": 1440
     }
   }
 ]
