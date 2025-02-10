@@ -11,8 +11,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 336,
-    "timeDay": 282,
-    "timeWeek": 3638,
+    "timeDay": 148,
+    "timeWeek": 3634,
     "timeMonth": 1660,
     "timeYear": 366,
     "dailyMinutesDown": {
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "18.63%",
+    "uptime": "18.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 201,
-    "timeDay": 138,
-    "timeWeek": 222,
-    "timeMonth": 198,
+    "timeDay": 137,
+    "timeWeek": 207,
+    "timeMonth": 197,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-02-09": 48,
+      "2025-02-10": 46,
+      "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -404,8 +405,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -420,9 +420,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 282,
-    "timeDay": 159,
-    "timeWeek": 2635,
-    "timeMonth": 836,
+    "timeDay": 125,
+    "timeWeek": 2918,
+    "timeMonth": 835,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2024-09-09": 45
@@ -434,18 +434,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "45.32%",
+    "uptime": "45.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 472,
-    "timeDay": 464,
-    "timeWeek": 3790,
+    "time": 471,
+    "timeDay": 235,
+    "timeWeek": 3750,
     "timeMonth": 1132,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2025-02-09": 48,
+      "2025-02-10": 46,
+      "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -808,8 +809,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   }
 ]
