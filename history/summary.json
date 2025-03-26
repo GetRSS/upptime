@@ -11,9 +11,9 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.90%",
     "time": 714,
-    "timeDay": 241,
-    "timeWeek": 6557,
-    "timeMonth": 4120,
+    "timeDay": 255,
+    "timeWeek": 6563,
+    "timeMonth": 4121,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2025-03-12": 43,
@@ -28,8 +28,7 @@
       "2025-01-29": 21,
       "2025-01-23": 19,
       "2024-10-19": 76,
-      "2024-09-09": 45,
-      "2024-03-26": 16
+      "2024-09-09": 45
     }
   },
   {
@@ -38,18 +37,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "17.63%",
+    "uptime": "17.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 201,
-    "timeDay": 187,
-    "timeWeek": 213,
-    "timeMonth": 196,
-    "timeYear": 201,
+    "time": 202,
+    "timeDay": 253,
+    "timeWeek": 209,
+    "timeMonth": 199,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-03-25": 641,
+      "2025-03-26": 49,
+      "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -412,8 +412,7 @@
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
-      "2024-03-27": 1440,
-      "2024-03-26": 1440
+      "2024-03-27": 1440
     }
   },
   {
@@ -428,10 +427,10 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.93%",
     "time": 997,
-    "timeDay": 11336,
-    "timeWeek": 14902,
-    "timeMonth": 8558,
-    "timeYear": 1356,
+    "timeDay": 11427,
+    "timeWeek": 12587,
+    "timeMonth": 8564,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2025-03-25": 21,
       "2025-03-20": 16,
@@ -450,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "42.87%",
+    "uptime": "42.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 819,
-    "timeDay": 498,
-    "timeWeek": 7244,
-    "timeMonth": 6273,
-    "timeYear": 976,
+    "timeDay": 551,
+    "timeWeek": 5542,
+    "timeMonth": 6276,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2025-03-25": 641,
+      "2025-03-26": 49,
+      "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -824,8 +824,7 @@
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
-      "2024-03-27": 1440,
-      "2024-03-26": 1440
+      "2024-03-27": 1440
     }
   }
 ]
