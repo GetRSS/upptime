@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.41%",
     "time": 1617,
-    "timeDay": 776,
-    "timeWeek": 2365,
-    "timeMonth": 2141,
+    "timeDay": 274,
+    "timeWeek": 2352,
+    "timeMonth": 2139,
     "timeYear": 1914,
     "dailyMinutesDown": {
       "2025-10-27": 23,
@@ -82,12 +82,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 208,
-    "timeDay": 156,
-    "timeWeek": 264,
-    "timeMonth": 235,
+    "timeDay": 139,
+    "timeWeek": 239,
+    "timeMonth": 232,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-10-27": 881,
+      "2025-10-28": 51,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -450,8 +451,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 1440,
-      "2024-10-28": 1440
+      "2024-10-29": 1440
     }
   },
   {
@@ -466,9 +466,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.43%",
     "time": 2404,
-    "timeDay": 6401,
-    "timeWeek": 2974,
-    "timeMonth": 3380,
+    "timeDay": 308,
+    "timeWeek": 2963,
+    "timeMonth": 3379,
     "timeYear": 3096,
     "dailyMinutesDown": {
       "2025-10-27": 32,
@@ -523,18 +523,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "33.94%",
+    "uptime": "33.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1646,
-    "timeDay": 15270,
-    "timeWeek": 4745,
-    "timeMonth": 3136,
-    "timeYear": 2121,
+    "timeDay": 213,
+    "timeWeek": 4731,
+    "timeMonth": 3128,
+    "timeYear": 2120,
     "dailyMinutesDown": {
-      "2025-10-27": 882,
+      "2025-10-28": 51,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -897,8 +898,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 1440,
-      "2024-10-28": 1440
+      "2024-10-29": 1440
     }
   }
 ]
