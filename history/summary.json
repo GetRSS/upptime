@@ -6,17 +6,17 @@
     "slug": "rss-box",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "98.24%",
     "uptimeYear": "99.22%",
     "time": 1814,
-    "timeDay": 4163,
-    "timeWeek": 3971,
-    "timeMonth": 2907,
+    "timeDay": 4161,
+    "timeWeek": 4135,
+    "timeMonth": 2943,
     "timeYear": 2166,
     "dailyMinutesDown": {
-      "2025-12-14": 33,
+      "2025-12-14": 22,
       "2025-12-13": 19,
       "2025-12-12": 19,
       "2025-12-11": 98,
@@ -86,7 +86,8 @@
       "2025-03-06": 127,
       "2025-03-03": 21,
       "2025-03-01": 27,
-      "2025-02-21": 29
+      "2025-02-21": 29,
+      "2025-02-12": 18
     }
   },
   {
@@ -95,18 +96,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "13.34%",
+    "uptime": "13.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 211,
-    "timeDay": 136,
-    "timeWeek": 181,
-    "timeMonth": 222,
-    "timeYear": 214,
+    "timeDay": 166,
+    "timeWeek": 180,
+    "timeMonth": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-12-14": 884,
+      "2025-12-15": 59,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -469,8 +471,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   },
   {
@@ -485,9 +486,9 @@
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.28%",
     "time": 2489,
-    "timeDay": 165,
-    "timeWeek": 2916,
-    "timeMonth": 2570,
+    "timeDay": 160,
+    "timeWeek": 2912,
+    "timeMonth": 2566,
     "timeYear": 3357,
     "dailyMinutesDown": {
       "2025-12-14": 39,
@@ -561,18 +562,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "32.44%",
+    "uptime": "32.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1950,
-    "timeDay": 159,
-    "timeWeek": 3504,
-    "timeMonth": 3806,
-    "timeYear": 2542,
+    "timeDay": 193,
+    "timeWeek": 3482,
+    "timeMonth": 3794,
+    "timeYear": 2508,
     "dailyMinutesDown": {
-      "2025-12-14": 884,
+      "2025-12-15": 59,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -935,8 +937,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   }
 ]
