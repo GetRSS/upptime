@@ -6,17 +6,16 @@
     "slug": "rss-box",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "97.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "99.23%",
     "time": 1710,
-    "timeDay": 259,
-    "timeWeek": 3103,
-    "timeMonth": 2999,
+    "timeDay": 178,
+    "timeWeek": 3370,
+    "timeMonth": 2995,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2025-12-26": 13,
       "2025-12-25": 25,
       "2025-12-22": 21,
       "2025-12-18": 91,
@@ -87,7 +86,8 @@
       "2025-04-02": 23,
       "2025-04-01": 30,
       "2025-03-12": 43,
-      "2025-03-10": 18
+      "2025-03-10": 18,
+      "2025-03-06": 26
     }
   },
   {
@@ -102,12 +102,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 210,
-    "timeDay": 176,
-    "timeWeek": 187,
-    "timeMonth": 183,
+    "timeDay": 144,
+    "timeWeek": 190,
+    "timeMonth": 180,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-12-26": 889,
+      "2025-12-27": 55,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -470,8 +471,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -482,13 +482,13 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
+    "uptimeWeek": "98.45%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "99.22%",
-    "time": 2669,
-    "timeDay": 262,
-    "timeWeek": 3016,
-    "timeMonth": 2602,
+    "time": 2670,
+    "timeDay": 141,
+    "timeWeek": 3200,
+    "timeMonth": 2596,
     "timeYear": 3445,
     "dailyMinutesDown": {
       "2025-12-25": 63,
@@ -568,18 +568,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "32.08%",
+    "uptime": "32.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1972,
-    "timeDay": 332,
-    "timeWeek": 1977,
-    "timeMonth": 2055,
+    "timeDay": 191,
+    "timeWeek": 1980,
+    "timeMonth": 2043,
     "timeYear": 2538,
     "dailyMinutesDown": {
-      "2025-12-26": 889,
+      "2025-12-27": 56,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -942,8 +943,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   }
 ]
