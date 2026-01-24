@@ -4,18 +4,19 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "98.99%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.24%",
-    "time": 1874,
+    "time": 1876,
     "timeDay": 275,
     "timeWeek": 201,
     "timeMonth": 2274,
     "timeYear": 2290,
     "dailyMinutesDown": {
+      "2026-01-24": 1,
       "2026-01-19": 25,
       "2026-01-17": 55,
       "2026-01-15": 25,
@@ -82,8 +83,7 @@
       "2025-06-09": 23,
       "2025-06-01": 19,
       "2025-05-27": 51,
-      "2025-05-26": 249,
-      "2025-05-25": 19
+      "2025-05-26": 249
     }
   },
   {
@@ -103,7 +103,7 @@
     "timeMonth": 196,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-01-24": 453,
+      "2026-01-24": 619,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -477,9 +477,9 @@
     "slug": "rss-bridge",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.16%",
     "time": 3008,
     "timeDay": 4240,
@@ -487,7 +487,6 @@
     "timeMonth": 3125,
     "timeYear": 3571,
     "dailyMinutesDown": {
-      "2026-01-24": 14,
       "2026-01-23": 23,
       "2026-01-22": 31,
       "2026-01-21": 38,
@@ -568,7 +567,8 @@
       "2025-03-25": 21,
       "2025-03-20": 16,
       "2025-03-17": 19,
-      "2025-03-06": 93
+      "2025-03-06": 93,
+      "2025-03-04": 17
     }
   },
   {
@@ -577,7 +577,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "31.27%",
+    "uptime": "31.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -588,7 +588,7 @@
     "timeMonth": 672,
     "timeYear": 2565,
     "dailyMinutesDown": {
-      "2026-01-24": 453,
+      "2026-01-24": 619,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
