@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.26%",
+    "uptime": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "99.24%",
     "time": 1941,
-    "timeDay": 7616,
-    "timeWeek": 3972,
-    "timeMonth": 2657,
+    "timeDay": 155,
+    "timeWeek": 3975,
+    "timeMonth": 2655,
     "timeYear": 2361,
     "dailyMinutesDown": {
-      "2026-01-30": 11,
       "2026-01-27": 29,
       "2026-01-26": 28,
       "2026-01-24": 23,
@@ -86,7 +85,7 @@
       "2025-06-09": 23,
       "2025-06-01": 19,
       "2025-05-27": 51,
-      "2025-05-26": 68
+      "2025-05-26": 186
     }
   },
   {
@@ -101,12 +100,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 210,
-    "timeDay": 131,
-    "timeWeek": 188,
-    "timeMonth": 199,
+    "timeDay": 123,
+    "timeWeek": 193,
+    "timeMonth": 193,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-01-30": 722,
+      "2026-01-31": 65,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -469,8 +469,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   },
   {
@@ -481,13 +480,13 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.96%",
+    "uptimeWeek": "97.19%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.15%",
     "time": 2772,
-    "timeDay": 22327,
-    "timeWeek": 5303,
-    "timeMonth": 3461,
+    "timeDay": 168,
+    "timeWeek": 4889,
+    "timeMonth": 3460,
     "timeYear": 3668,
     "dailyMinutesDown": {
       "2026-01-28": 129,
@@ -575,18 +574,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "31.10%",
+    "uptime": "31.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1992,
-    "timeDay": 0,
-    "timeWeek": 253,
-    "timeMonth": 683,
-    "timeYear": 2570,
+    "timeDay": 167,
+    "timeWeek": 257,
+    "timeMonth": 677,
+    "timeYear": 2569,
     "dailyMinutesDown": {
-      "2026-01-30": 722,
+      "2026-01-31": 65,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -949,8 +949,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   }
 ]
