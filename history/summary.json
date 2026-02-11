@@ -4,19 +4,19 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "89.34%",
-    "uptimeWeek": "97.42%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "89.23%",
+    "uptimeWeek": "97.41%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.23%",
-    "time": 2043,
+    "time": 2046,
     "timeDay": 4478,
     "timeWeek": 3955,
     "timeMonth": 2437,
     "timeYear": 2380,
     "dailyMinutesDown": {
-      "2026-02-11": 137,
+      "2026-02-11": 139,
       "2026-02-10": 16,
       "2026-02-07": 28,
       "2026-02-05": 78,
@@ -85,7 +85,7 @@
       "2025-07-01": 15,
       "2025-06-28": 19,
       "2025-06-27": 32,
-      "2025-06-26": 53
+      "2025-06-26": 20
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 190,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-02-11": 944,
+      "2026-02-11": 1006,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -477,13 +477,13 @@
     "url": "$RSSBRIDGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "87.95%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "87.94%",
     "uptimeWeek": "96.00%",
     "uptimeMonth": "97.50%",
-    "uptimeYear": "99.07%",
-    "time": 2981,
+    "uptimeYear": "99.08%",
+    "time": 2985,
     "timeDay": 23338,
     "timeWeek": 10008,
     "timeMonth": 5415,
@@ -564,8 +564,7 @@
       "2025-06-01": 37,
       "2025-05-29": 41,
       "2025-05-27": 46,
-      "2025-05-26": 183,
-      "2025-05-01": 30
+      "2025-05-26": 183
     }
   },
   {
@@ -574,7 +573,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "30.77%",
+    "uptime": "30.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -585,7 +584,7 @@
     "timeMonth": 1949,
     "timeYear": 2640,
     "dailyMinutesDown": {
-      "2026-02-11": 944,
+      "2026-02-11": 1007,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
