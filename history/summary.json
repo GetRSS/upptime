@@ -4,18 +4,19 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "97.82%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "97.81%",
     "uptimeYear": "99.22%",
-    "time": 2131,
+    "time": 2133,
     "timeDay": 6779,
     "timeWeek": 4932,
     "timeMonth": 2897,
     "timeYear": 2390,
     "dailyMinutesDown": {
+      "2026-02-15": 3,
       "2026-02-14": 38,
       "2026-02-13": 130,
       "2026-02-12": 133,
@@ -83,7 +84,7 @@
       "2025-07-15": 39,
       "2025-07-14": 46,
       "2025-07-09": 372,
-      "2025-07-08": 794
+      "2025-07-08": 776
     }
   },
   {
@@ -103,7 +104,7 @@
     "timeMonth": 182,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-02-15": 76,
+      "2026-02-15": 328,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
@@ -475,18 +476,19 @@
     "url": "$RSSBRIDGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "99.07%",
-    "time": 3021,
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.08%",
+    "time": 3025,
     "timeDay": 26424,
     "timeWeek": 9177,
     "timeMonth": 5503,
     "timeYear": 3899,
     "dailyMinutesDown": {
+      "2026-02-15": 2,
       "2026-02-11": 211,
       "2026-02-10": 17,
       "2026-02-09": 229,
@@ -562,7 +564,7 @@
       "2025-06-01": 37,
       "2025-05-29": 41,
       "2025-05-27": 46,
-      "2025-05-26": 183
+      "2025-05-26": 141
     }
   },
   {
@@ -582,7 +584,7 @@
     "timeMonth": 2341,
     "timeYear": 2642,
     "dailyMinutesDown": {
-      "2026-02-15": 76,
+      "2026-02-15": 328,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
