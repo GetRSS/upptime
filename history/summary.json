@@ -4,18 +4,19 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.30%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "99.23%",
-    "time": 2186,
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "99.36%",
+    "time": 2189,
     "timeDay": 148,
     "timeWeek": 5447,
     "timeMonth": 3449,
     "timeYear": 2411,
     "dailyMinutesDown": {
+      "2026-02-19": 2,
       "2026-02-16": 127,
       "2026-02-15": 46,
       "2026-02-14": 38,
@@ -84,8 +85,7 @@
       "2025-07-16": 42,
       "2025-07-15": 39,
       "2025-07-14": 46,
-      "2025-07-09": 372,
-      "2025-07-08": 574
+      "2025-07-09": 262
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 182,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2026-02-19": 74,
+      "2026-02-19": 314,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -477,18 +477,19 @@
     "url": "$RSSBRIDGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "97.33%",
-    "uptimeYear": "99.08%",
-    "time": 3119,
+    "uptimeYear": "99.09%",
+    "time": 3123,
     "timeDay": 127,
     "timeWeek": 7148,
     "timeMonth": 6304,
     "timeYear": 3899,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2026-02-17": 92,
       "2026-02-16": 73,
       "2026-02-15": 44,
@@ -563,8 +564,7 @@
       "2025-07-01": 19,
       "2025-06-29": 41,
       "2025-06-23": 23,
-      "2025-06-10": 50,
-      "2025-06-01": 37
+      "2025-06-10": 50
     }
   },
   {
@@ -573,7 +573,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "30.57%",
+    "uptime": "30.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -584,7 +584,7 @@
     "timeMonth": 3147,
     "timeYear": 2679,
     "dailyMinutesDown": {
-      "2026-02-19": 74,
+      "2026-02-19": 314,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
