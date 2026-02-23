@@ -4,13 +4,13 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "97.74%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "97.73%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "99.33%",
-    "time": 2243,
+    "time": 2246,
     "timeDay": 6168,
     "timeWeek": 5006,
     "timeMonth": 3886,
@@ -87,7 +87,7 @@
       "2025-07-16": 42,
       "2025-07-15": 39,
       "2025-07-14": 46,
-      "2025-07-09": 204
+      "2025-07-09": 186
     }
   },
   {
@@ -107,7 +107,7 @@
     "timeMonth": 187,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-02-23": 929,
+      "2026-02-23": 975,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -586,7 +586,7 @@
     "timeMonth": 3955,
     "timeYear": 2713,
     "dailyMinutesDown": {
-      "2026-02-23": 929,
+      "2026-02-23": 975,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
