@@ -4,19 +4,19 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "88.33%",
-    "uptimeWeek": "95.43%",
+    "uptimeDay": "88.11%",
+    "uptimeWeek": "95.40%",
     "uptimeMonth": "96.66%",
-    "uptimeYear": "99.29%",
-    "time": 2282,
+    "uptimeYear": "99.30%",
+    "time": 2284,
     "timeDay": 7247,
     "timeWeek": 4632,
     "timeMonth": 3783,
     "timeYear": 2440,
     "dailyMinutesDown": {
-      "2026-02-24": 168,
+      "2026-02-24": 171,
       "2026-02-23": 142,
       "2026-02-22": 39,
       "2026-02-19": 111,
@@ -88,7 +88,7 @@
       "2025-07-16": 42,
       "2025-07-15": 39,
       "2025-07-14": 46,
-      "2025-07-09": 146
+      "2025-07-09": 111
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 191,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2026-02-24": 1176,
+      "2026-02-24": 1205,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -480,19 +480,19 @@
     "url": "$RSSBRIDGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "89.04%",
-    "uptimeWeek": "95.83%",
+    "uptimeDay": "88.92%",
+    "uptimeWeek": "95.82%",
     "uptimeMonth": "96.76%",
     "uptimeYear": "99.04%",
-    "time": 3308,
+    "time": 3313,
     "timeDay": 11761,
     "timeWeek": 9597,
     "timeMonth": 7959,
     "timeYear": 4022,
     "dailyMinutesDown": {
-      "2026-02-24": 158,
+      "2026-02-24": 160,
       "2026-02-23": 50,
       "2026-02-20": 113,
       "2026-02-19": 60,
@@ -565,8 +565,7 @@
       "2025-07-17": 34,
       "2025-07-14": 39,
       "2025-07-09": 570,
-      "2025-07-08": 966,
-      "2025-07-02": 29
+      "2025-07-08": 966
     }
   },
   {
@@ -586,7 +585,7 @@
     "timeMonth": 4403,
     "timeYear": 2749,
     "dailyMinutesDown": {
-      "2026-02-24": 1176,
+      "2026-02-24": 1205,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
