@@ -4,18 +4,19 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "85.14%",
-    "uptimeWeek": "94.97%",
+    "uptimeDay": "85.07%",
+    "uptimeWeek": "94.96%",
     "uptimeMonth": "96.56%",
-    "uptimeYear": "99.29%",
-    "time": 2284,
+    "uptimeYear": "99.31%",
+    "time": 2287,
     "timeDay": 2467,
     "timeWeek": 3736,
     "timeMonth": 3714,
     "timeYear": 2437,
     "dailyMinutesDown": {
+      "2026-02-25": 1,
       "2026-02-24": 214,
       "2026-02-23": 142,
       "2026-02-22": 39,
@@ -87,8 +88,7 @@
       "2025-07-17": 28,
       "2025-07-16": 42,
       "2025-07-15": 39,
-      "2025-07-14": 46,
-      "2025-07-09": 111
+      "2025-07-14": 46
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 187,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-02-25": 76,
+      "2026-02-25": 405,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -490,7 +490,7 @@
     "timeDay": 3332,
     "timeWeek": 8726,
     "timeMonth": 7823,
-    "timeYear": 4015,
+    "timeYear": 4020,
     "dailyMinutesDown": {
       "2026-02-24": 202,
       "2026-02-23": 50,
@@ -574,7 +574,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "30.41%",
+    "uptime": "30.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -585,7 +585,7 @@
     "timeMonth": 4402,
     "timeYear": 2749,
     "dailyMinutesDown": {
-      "2026-02-25": 76,
+      "2026-02-25": 406,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
