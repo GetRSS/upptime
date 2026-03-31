@@ -4,18 +4,19 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "86.58%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "86.36%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "99.21%",
-    "time": 2833,
+    "time": 2837,
     "timeDay": 10031,
     "timeWeek": 10367,
     "timeMonth": 7754,
     "timeYear": 2768,
     "dailyMinutesDown": {
+      "2026-03-31": 3,
       "2026-03-30": 193,
       "2026-03-23": 165,
       "2026-03-21": 60,
@@ -84,8 +85,7 @@
       "2025-11-04": 30,
       "2025-11-03": 28,
       "2025-10-31": 41,
-      "2025-10-29": 22,
-      "2025-10-28": 23
+      "2025-10-29": 22
     }
   },
   {
@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "12.15%",
+    "uptime": "12.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -105,7 +105,7 @@
     "timeMonth": 212,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-03-31": 81,
+      "2026-03-31": 326,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
@@ -477,18 +477,19 @@
     "url": "$RSSBRIDGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "99.32%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.23%",
-    "time": 3976,
+    "time": 3981,
     "timeDay": 6343,
     "timeWeek": 9125,
     "timeMonth": 9285,
     "timeYear": 4162,
     "dailyMinutesDown": {
+      "2026-03-31": 2,
       "2026-03-30": 69,
       "2026-03-21": 59,
       "2026-03-12": 62,
@@ -565,8 +566,7 @@
       "2025-09-04": 20,
       "2025-08-27": 16,
       "2025-08-06": 35,
-      "2025-08-04": 52,
-      "2025-07-29": 29
+      "2025-08-04": 52
     }
   },
   {
@@ -586,7 +586,7 @@
     "timeMonth": 7573,
     "timeYear": 2861,
     "dailyMinutesDown": {
-      "2026-03-31": 81,
+      "2026-03-31": 327,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
