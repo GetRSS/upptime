@@ -6,14 +6,14 @@
     "slug": "rss-box",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "87.91%",
+    "uptimeDay": "94.25%",
     "uptimeWeek": "97.26%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.20%",
     "time": 2870,
-    "timeDay": 11557,
-    "timeWeek": 11447,
-    "timeMonth": 8076,
+    "timeDay": 11294,
+    "timeWeek": 11459,
+    "timeMonth": 7429,
     "timeYear": 2801,
     "dailyMinutesDown": {
       "2026-03-31": 83,
@@ -100,12 +100,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 210,
-    "timeDay": 228,
-    "timeWeek": 225,
-    "timeMonth": 212,
+    "timeDay": 261,
+    "timeWeek": 212,
+    "timeMonth": 213,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-03-31": 1119,
+      "2026-04-01": 87,
+      "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
@@ -468,8 +469,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   },
   {
@@ -479,14 +479,14 @@
     "slug": "rss-bridge",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "87.87%",
+    "uptimeDay": "90.46%",
     "uptimeWeek": "97.95%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.22%",
     "time": 4029,
-    "timeDay": 10817,
-    "timeWeek": 10359,
-    "timeMonth": 9578,
+    "timeDay": 10307,
+    "timeWeek": 10350,
+    "timeMonth": 9212,
     "timeYear": 4188,
     "dailyMinutesDown": {
       "2026-03-31": 138,
@@ -580,12 +580,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2727,
-    "timeDay": 429,
-    "timeWeek": 7332,
-    "timeMonth": 7573,
+    "timeDay": 267,
+    "timeWeek": 7336,
+    "timeMonth": 7140,
     "timeYear": 2861,
     "dailyMinutesDown": {
-      "2026-03-31": 1120,
+      "2026-04-01": 88,
+      "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
@@ -948,8 +949,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   }
 ]
