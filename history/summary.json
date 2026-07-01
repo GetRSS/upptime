@@ -6,8 +6,8 @@
     "slug": "rss-box",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.01%",
     "time": 5214,
@@ -16,6 +16,7 @@
     "timeMonth": 29313,
     "timeYear": 5953,
     "dailyMinutesDown": {
+      "2025-12-02": 34,
       "2025-12-05": 42,
       "2025-12-07": 34,
       "2025-12-08": 177,
@@ -86,8 +87,7 @@
       "2026-05-02": 53,
       "2026-05-22": 211,
       "2026-05-21": 65,
-      "2026-06-07": 274,
-      "2026-07-01": 3
+      "2026-06-07": 274
     }
   },
   {
@@ -96,7 +96,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "11.28%",
+    "uptime": "11.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -107,7 +107,7 @@
     "timeMonth": 146,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-07-01": 20,
+      "2026-07-01": 151,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -578,7 +578,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "27.43%",
+    "uptime": "27.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -589,7 +589,7 @@
     "timeMonth": 211,
     "timeYear": 3053,
     "dailyMinutesDown": {
-      "2026-07-01": 20,
+      "2026-07-01": 151,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
