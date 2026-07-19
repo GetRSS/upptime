@@ -4,17 +4,17 @@
     "url": "$RSSBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
-    "time": 6267,
-    "timeDay": 15724,
-    "timeWeek": 28634,
-    "timeMonth": 28419,
-    "timeYear": 7150,
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.00%",
+    "time": 6250,
+    "timeDay": 10562,
+    "timeWeek": 25479,
+    "timeMonth": 27538,
+    "timeYear": 7137,
     "dailyMinutesDown": {
       "2025-12-05": 42,
       "2025-12-07": 34,
@@ -87,7 +87,7 @@
       "2026-05-22": 211,
       "2026-05-21": 65,
       "2026-06-07": 274,
-      "2026-07-19": 1
+      "2026-07-19": 77
     }
   },
   {
@@ -107,7 +107,7 @@
     "timeMonth": 120,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-07-19": 612,
+      "2026-07-19": 689,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -479,17 +479,17 @@
     "url": "$RSSBRIDGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "98.49%",
-    "time": 5621,
-    "timeDay": 6204,
-    "timeWeek": 14236,
-    "timeMonth": 12068,
-    "timeYear": 6161,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "98.48%",
+    "time": 5613,
+    "timeDay": 4211,
+    "timeWeek": 12679,
+    "timeMonth": 11709,
+    "timeYear": 6149,
     "dailyMinutesDown": {
       "2025-11-09": 15,
       "2025-11-18": 18,
@@ -569,7 +569,7 @@
       "2026-05-21": 65,
       "2026-05-25": 60,
       "2026-06-24": 132,
-      "2026-07-19": 0
+      "2026-07-19": 77
     }
   },
   {
@@ -589,7 +589,7 @@
     "timeMonth": 188,
     "timeYear": 2951,
     "dailyMinutesDown": {
-      "2026-07-19": 612,
+      "2026-07-19": 689,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
