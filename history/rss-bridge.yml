@@ -1,7 +1,7 @@
 url: $RSSBRIDGE
-status: up
-code: 200
-responseTime: 21536
-lastUpdated: 2026-08-20T04:29:06.091Z
+status: down
+code: 503
+responseTime: 126
+lastUpdated: 2026-08-20T16:02:10.868Z
 startTime: 2022-12-25T00:27:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
